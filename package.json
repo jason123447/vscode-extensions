@@ -1,0 +1,13 @@
+{
+  "name": "lenny-fe-package",
+  "displayName": "Lenny FE packge",
+  "version": "1.0.0",
+  "description": "Description of your extension",
+  "engines": {
+    "vscode": "^1.84.2"
+  },
+  "scripts": {
+  },
+  "author": "Lenny Bai",
+  "license": "ISC"
+}
